@@ -1,6 +1,6 @@
 # Chapter 1
 
-This chapter demonstrated the basic structure of Redux Toolkit.
+This chapter demonstrated the basic structure of Redux and usage of Redux Toolkit.
 
 This includes:
 * Slices
